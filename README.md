@@ -54,3 +54,4 @@ If you have any ideas to make it more interesting, please send a PR or create an
 > Instagram [@fajarghifar](https://instagram.com/fajarghifar)
 # inventory-management
 # inventory-management
+# inventory-management-app-
